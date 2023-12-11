@@ -1,6 +1,6 @@
 # YachayTrade-2023
 
 # Run Project
-## npm install
-## npm run dev
+ npm install
+ npm run dev
 
