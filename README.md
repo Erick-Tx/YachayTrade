@@ -20,9 +20,10 @@ Write down the general informations of your project. It is worth to always put a
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [MongoDB](https://example.com): Version 12.3 
+* [Express](https://example.com): Version 2.34
+* [React](https://example.com): Version 1234
+* [Nodejs](https://example.com): Version 1234
 
 ## Installation
 ***
